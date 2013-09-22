@@ -1,3 +1,12 @@
+# _normalize.scss
+
+Just a simple copy of `normalize.css` to `_normalize.scss`, a Sass partial for @importing into .scss files.
+There are [other](https://github.com/appleboy/normalize.scss)
+[forks](https://github.com/JohnAlbin/normalize.css-with-sass-or-compass) along this idea,
+but they add extra features. This one does not.
+
+    bower install _normalize.scss 
+
 # normalize.css v2
 
 Normalize.css is a customisable CSS file that makes browsers render all
